@@ -59,9 +59,10 @@ Overall, it highlights the importance of clean code structure, user‑friendly o
 
 
 
-# Wordle Solver in C (Colored Output)
-## Second Part
+
+
 # 🎯 Wordle Solver in C
+## Second Part
 
 An automated Wordle solver with colored feedback display, developed in C.
 
