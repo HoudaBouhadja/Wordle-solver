@@ -56,9 +56,11 @@ It combines logic, user interaction, and visual feedback to create an engaging e
 Overall, it highlights the importance of clean code structure, user‑friendly output, and creativity in programming assignments.
 
 
-## Second Part
-# Wordle Solver in C (Colored Output)
 
+
+
+# Wordle Solver in C (Colored Output)
+## Second Part
 # 🎯 Wordle Solver in C
 
 An automated Wordle solver with colored feedback display, developed in C.
